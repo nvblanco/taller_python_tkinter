@@ -1,0 +1,19 @@
+figures/
+
+# Python
+__pychache__/
+*.py[cod]
+*$py.class
+
+# LaTeX
+*.tex
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.nav
+*.out
+*.snm
+*.synctex.gz
+*.toc
+*.vrb
